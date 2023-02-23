@@ -1,0 +1,9 @@
+numpy
+scipy
+matplotlib==3.*
+--extra-index-url https://gitlab.com/api/v4/projects/23792904/packages/pypi/simple
+akantu==4.*
+gmsh
+itkwidgets
+pyvista
+git+https://gitlab.com/ganciaux/slides.git
